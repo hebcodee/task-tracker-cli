@@ -39,7 +39,7 @@ mvn clean install
 
 ## Usage :hammer_and_wrench:
 ```bash
-Usage: java -jar task-tracker.jar [command]
+Usage: java -jar task-tracker-jar-with-dependencies.jar
 The options below may be used to perform the desired operations:
     add <description>               - Add a new task
     update <taskId> <description>   - Update a task
