@@ -1,4 +1,4 @@
-package TaskTracker;
+package org.example.models;
 
 public enum Status {
     TODO,
