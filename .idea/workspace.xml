@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="863713cb-f32c-4ba5-88e5-67302aa69b9c" name="Changes" comment="feat: add README.md">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/TaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TaskTracker/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TaskTracker/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TaskTracker/TaskRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="863713cb-f32c-4ba5-88e5-67302aa69b9c" name="Changes" comment="feat: Add Main">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -109,7 +103,71 @@
       <option name="project" value="LOCAL" />
       <updated>1769975058362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add TaskRepository">
+      <option name="closed" value="true" />
+      <created>1770492493990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492493991</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add IRepository">
+      <option name="closed" value="true" />
+      <created>1770492506199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492506199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add IService">
+      <option name="closed" value="true" />
+      <created>1770492514544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492514544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add TaskService">
+      <option name="closed" value="true" />
+      <created>1770492524374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492524374</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add Task">
+      <option name="closed" value="true" />
+      <created>1770492544488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492544488</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: add Status">
+      <option name="closed" value="true" />
+      <created>1770492565338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492565338</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove: Task and TaskRepository">
+      <option name="closed" value="true" />
+      <created>1770492586082</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492586082</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Add Main">
+      <option name="closed" value="true" />
+      <created>1770492604083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770492604083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +175,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add README.md" />
+    <MESSAGE value="feat: add TaskRepository" />
+    <MESSAGE value="feat: add IRepository" />
+    <MESSAGE value="feat: add IService" />
+    <MESSAGE value="feat: add TaskService" />
+    <MESSAGE value="feat: add Task" />
+    <MESSAGE value="feat: add Status" />
+    <MESSAGE value="remove: Task and TaskRepository" />
+    <MESSAGE value="feat: Add Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add Main" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
